@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hyperxtend/ReactTacToe/static/css/main.c3a0519c.chunk.css",
+    "main.js": "/hyperxtend/ReactTacToe/static/js/main.a496b0af.chunk.js",
+    "main.js.map": "/hyperxtend/ReactTacToe/static/js/main.a496b0af.chunk.js.map",
+    "runtime-main.js": "/hyperxtend/ReactTacToe/static/js/runtime-main.c2024ca8.js",
+    "runtime-main.js.map": "/hyperxtend/ReactTacToe/static/js/runtime-main.c2024ca8.js.map",
+    "static/css/2.de424728.chunk.css": "/hyperxtend/ReactTacToe/static/css/2.de424728.chunk.css",
+    "static/js/2.e6d8d659.chunk.js": "/hyperxtend/ReactTacToe/static/js/2.e6d8d659.chunk.js",
+    "static/js/2.e6d8d659.chunk.js.map": "/hyperxtend/ReactTacToe/static/js/2.e6d8d659.chunk.js.map",
+    "index.html": "/hyperxtend/ReactTacToe/index.html",
+    "precache-manifest.f4e1795001dee176beaef9a85551597a.js": "/hyperxtend/ReactTacToe/precache-manifest.f4e1795001dee176beaef9a85551597a.js",
+    "service-worker.js": "/hyperxtend/ReactTacToe/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/hyperxtend/ReactTacToe/static/css/2.de424728.chunk.css.map",
+    "static/css/main.c3a0519c.chunk.css.map": "/hyperxtend/ReactTacToe/static/css/main.c3a0519c.chunk.css.map",
+    "static/js/2.e6d8d659.chunk.js.LICENSE.txt": "/hyperxtend/ReactTacToe/static/js/2.e6d8d659.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2024ca8.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.e6d8d659.chunk.js",
+    "static/css/main.c3a0519c.chunk.css",
+    "static/js/main.a496b0af.chunk.js"
+  ]
+}
