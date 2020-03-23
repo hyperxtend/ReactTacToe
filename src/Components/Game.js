@@ -1,5 +1,5 @@
 import React, {Component} from "react";
-import Board from "./Board.js";
+import Board from "./Board";
 import {Container, Button } from "react-bootstrap";
 
 export default class Game extends Component {
@@ -62,7 +62,7 @@ export default class Game extends Component {
     if (winner) {
       status = winner + " is the Winner!";
     } else {
-      status = "Next player is " + (this.state.xIsNext ? " X" : " O");
+      status = "Next player is " + (this.state.xIsNext ? "X" : "O");
     }
 
     return (
