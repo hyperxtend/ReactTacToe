@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/hyperxtend/ReactTacToe/static/css/main.c3a0519c.chunk.css",
-    "main.js": "/hyperxtend/ReactTacToe/static/js/main.79b0fe90.chunk.js",
-    "main.js.map": "/hyperxtend/ReactTacToe/static/js/main.79b0fe90.chunk.js.map",
-    "runtime-main.js": "/hyperxtend/ReactTacToe/static/js/runtime-main.45aea38b.js",
-    "runtime-main.js.map": "/hyperxtend/ReactTacToe/static/js/runtime-main.45aea38b.js.map",
-    "static/css/2.de424728.chunk.css": "/hyperxtend/ReactTacToe/static/css/2.de424728.chunk.css",
-    "static/js/2.a4fe29e1.chunk.js": "/hyperxtend/ReactTacToe/static/js/2.a4fe29e1.chunk.js",
-    "static/js/2.a4fe29e1.chunk.js.map": "/hyperxtend/ReactTacToe/static/js/2.a4fe29e1.chunk.js.map",
-    "index.html": "/hyperxtend/ReactTacToe/index.html",
-    "precache-manifest.a5aa2bc7be9a4691c17f107d6f3a539a.js": "/hyperxtend/ReactTacToe/precache-manifest.a5aa2bc7be9a4691c17f107d6f3a539a.js",
-    "service-worker.js": "/hyperxtend/ReactTacToe/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/hyperxtend/ReactTacToe/static/css/2.de424728.chunk.css.map",
-    "static/css/main.c3a0519c.chunk.css.map": "/hyperxtend/ReactTacToe/static/css/main.c3a0519c.chunk.css.map",
-    "static/js/2.a4fe29e1.chunk.js.LICENSE.txt": "/hyperxtend/ReactTacToe/static/js/2.a4fe29e1.chunk.js.LICENSE.txt"
+    "main.css": "/ReactTacToe/static/css/main.c3a0519c.chunk.css",
+    "main.js": "/ReactTacToe/static/js/main.4d7df5d2.chunk.js",
+    "main.js.map": "/ReactTacToe/static/js/main.4d7df5d2.chunk.js.map",
+    "runtime-main.js": "/ReactTacToe/static/js/runtime-main.35145d1b.js",
+    "runtime-main.js.map": "/ReactTacToe/static/js/runtime-main.35145d1b.js.map",
+    "static/css/2.de424728.chunk.css": "/ReactTacToe/static/css/2.de424728.chunk.css",
+    "static/js/2.a4fe29e1.chunk.js": "/ReactTacToe/static/js/2.a4fe29e1.chunk.js",
+    "static/js/2.a4fe29e1.chunk.js.map": "/ReactTacToe/static/js/2.a4fe29e1.chunk.js.map",
+    "index.html": "/ReactTacToe/index.html",
+    "precache-manifest.316bcc4bf1e35ecbe3f9961952402b44.js": "/ReactTacToe/precache-manifest.316bcc4bf1e35ecbe3f9961952402b44.js",
+    "service-worker.js": "/ReactTacToe/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/ReactTacToe/static/css/2.de424728.chunk.css.map",
+    "static/css/main.c3a0519c.chunk.css.map": "/ReactTacToe/static/css/main.c3a0519c.chunk.css.map",
+    "static/js/2.a4fe29e1.chunk.js.LICENSE.txt": "/ReactTacToe/static/js/2.a4fe29e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.45aea38b.js",
+    "static/js/runtime-main.35145d1b.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.a4fe29e1.chunk.js",
     "static/css/main.c3a0519c.chunk.css",
-    "static/js/main.79b0fe90.chunk.js"
+    "static/js/main.4d7df5d2.chunk.js"
   ]
 }
